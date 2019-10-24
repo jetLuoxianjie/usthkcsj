@@ -1,0 +1,212 @@
+2019/10/13 14:12:37.306 [I] [SeoModel.go:104]  [2019-10-13 14:12:37]更新站点地图[start]
+2019/10/13 14:12:37.311 [I] [SeoModel.go:159]  [2019-10-13 14:12:37]更新站点地图[end]
+2019/10/13 14:12:38.905 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:12:43.309 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:12:44.653 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:12:45.316 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:12:45.709 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:12:46.651 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:12:47.354 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:12:48.360 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:12:49.071 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:12:49.563 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:12:50.013 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:12:50.467 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:12:50.923 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:14:10.805 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:13.029 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:14.005 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:14.821 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:16.132 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:17.029 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:18.918 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:20.725 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:25.377 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:29.291 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:36.805 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:37.518 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:38.645 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:39.612 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:40.280 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:40.784 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:41.222 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:41.733 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:14:42.366 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:15:13.416 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:15:18.384 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:15:18.385 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 100000000 offset 0
+2019/10/13 14:15:23.391 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:15:23.392 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 100000000 offset 0
+2019/10/13 14:15:24.300 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:15:24.302 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?  and ds.ExtNum=1   limit 100000000 offset 0
+2019/10/13 14:15:25.889 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:15:27.362 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:15:28.001 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:15:28.640 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:15:29.240 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:15:30.368 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:23:10.791 [E] [BaseController.go:66]  云存储配置不正确
+2019/10/13 14:23:29.184 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:23:30.829 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:24:09.351 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:24:25.162 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:24:26.392 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:24:27.031 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:24:27.454 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:24:28.073 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:24:29.062 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:24:32.139 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:24:39.702 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:07.821 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:07.903 [E] [BannerController.go:70]  云存储配置不正确
+2019/10/13 14:26:18.490 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:19.284 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:19.801 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:20.306 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:20.785 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:23.150 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:25.681 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:26.591 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:29.106 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:29.270 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:31.781 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:51.835 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:26:58.453 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:27:00.197 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:27:08.230 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:27:12.253 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:27:14.179 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:27:15.715 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:29:01.979 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:29:06.008 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:32:41.904 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:44:06.401 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:44:12.862 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:44:19.205 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:44:33.215 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:44:50.056 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:47:21.286 [E] [BaseController.go:56]  云存储配置不正确
+2019/10/13 14:51:57.359 [E] [UserController.go:397]  邮件发送失败：dial tcp :0: connect: can't assign requested address
+2019/10/13 14:52:05.583 [E] [UserController.go:397]  邮件发送失败：dial tcp :0: connect: can't assign requested address
+2019/10/13 14:52:19.361 [E] [UserController.go:397]  邮件发送失败：dial tcp :0: connect: can't assign requested address
+2019/10/13 14:52:42.810 [E] [UserController.go:397]  邮件发送失败：dial tcp :0: connect: can't assign requested address
+2019/10/13 14:53:28.546 [E] [UserController.go:397]  邮件发送失败：dial tcp :0: connect: can't assign requested address
+2019/10/13 14:53:29.925 [E] [UserController.go:397]  邮件发送失败：dial tcp :0: connect: can't assign requested address
+2019/10/13 15:08:21.588 [E] [UserController.go:397]  邮件发送失败：dial tcp :0: connect: can't assign requested address
+2019/10/13 15:08:24.228 [E] [UserController.go:397]  邮件发送失败：dial tcp :0: connect: can't assign requested address
+2019/10/13 15:08:57.556 [E] [UserController.go:397]  邮件发送失败：dial tcp :0: connect: can't assign requested address
+2019/10/13 17:10:53.386 [E] [Utils.go:299]  文件(uploads/2019/10/13/2/2-1570957852965522000-.docx)转PDF失败：exec: "soffice": executable file not found in $PATH
+2019/10/13 17:11:02.238 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 17:11:16.010 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 17:12:36.025 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 17:16:59.164 [D] [Utils.go:314]  store信息：%!(EXTRA string=&{Id:2 Md5:8d7e1e65d93b9c2224f526cff9bdebeb Ext:pdf ExtCate:pdf ExtNum:4 Page:5 PreviewPage:0 Size:445272 ModTime:1570958218 PreviewExt:svg Width:0 Height:0})
+2019/10/13 17:16:59.172 [E] [convert.go:156]  exec: "pdftotext": executable file not found in $PATH
+2019/10/13 17:16:59.173 [E] [convert.go:193]  open /Users/luoxianjie/go/src/DocHKJ/uploads/2019/10/13/2/2-1570958218556755000-.pdf.txt: no such file or directory
+2019/10/13 17:16:59.174 [D] [convert.go:101]  calibre文档转换：ebook-convert /Users/luoxianjie/go/src/DocHKJ/uploads/2019/10/13/2/2-1570958218556755000-.pdf /Users/luoxianjie/go/src/DocHKJ/uploads/2019/10/13/2/2-1570958218556755000-.txt
+2019/10/13 17:16:59.174 [E] [convert.go:193]  open /Users/luoxianjie/go/src/DocHKJ/uploads/2019/10/13/2/2-1570958218556755000-.txt: no such file or directory
+2019/10/13 17:16:59.176 [E] [Utils.go:364]  exec: "pdf2svg": executable file not found in $PATH
+2019/10/13 17:16:59.176 [E] [Utils.go:364]  exec: "pdf2svg": executable file not found in $PATH
+2019/10/13 17:16:59.176 [E] [Utils.go:364]  exec: "pdf2svg": executable file not found in $PATH
+2019/10/13 17:16:59.176 [E] [Utils.go:364]  exec: "pdf2svg": executable file not found in $PATH
+2019/10/13 17:16:59.176 [E] [Utils.go:364]  exec: "pdf2svg": executable file not found in $PATH
+2019/10/13 17:17:03.209 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 17:17:12.378 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 17:17:13.726 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 17:17:15.013 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 17:18:20.887 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 17:19:05.199 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 17:27:40.574 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 17:27:45.064 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 17:28:17.612 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:05:58.109 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:06:01.581 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:06:06.820 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:06:13.390 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:06:17.516 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:06:45.605 [E] [Utils.go:299]  文件(uploads/2019/10/13/2/2-1570964805303933000-.doc)转PDF失败：exec: "soffice": executable file not found in $PATH
+2019/10/13 19:06:50.023 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:07:13.404 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:07:22.266 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:09:19.645 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:10:14.171 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:11:07.695 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:13:13.077 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:13:34.312 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:13:37.005 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/13 19:25:10.443 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/14 22:08:42.056 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/14 22:11:51.341 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/14 22:12:15.273 [E] [Utils.go:299]  文件(loupads/2019/10/14/2/2-1571062305937600000-.docx)转PDF失败：exec: "soffice": executable file not found in $PATH
+2019/10/15 18:09:59.412 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 18:13:13.446 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 18:13:14.470 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 18:13:28.594 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 18:43:26.675 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 18:43:52.637 [E] [Utils.go:299]  文件(uploads/2019/10/15/2/2-1571136232325995000-.docx)转PDF失败：exec: "soffice": executable file not found in $PATH
+2019/10/15 18:44:23.009 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 18:44:43.583 [E] [BaseController.go:153]  <QuerySeter> no row found
+2019/10/15 18:48:13.457 [E] [Utils.go:299]  文件(uploads/2019/10/15/2/2-1571136493121929000-.docx)转PDF失败：exec: "soffice": executable file not found in $PATH
+2019/10/15 18:48:28.358 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 18:48:45.957 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 19:36:14.644 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 19:36:21.708 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 19:36:31.214 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 19:38:46.686 [D] [Utils.go:314]  store信息：%!(EXTRA string=&{Id:7 Md5:06e1364894e221c8ff5669ac57a35776 Ext:pdf ExtCate:pdf ExtNum:4 Page:2 PreviewPage:0 Size:182495 ModTime:1571139526 PreviewExt:svg Width:0 Height:0})
+2019/10/15 19:38:46.997 [E] [Utils.go:376]  exec: "convert": executable file not found in $PATH
+2019/10/15 19:38:46.997 [E] [Utils.go:382]  open /Users/luoxianjie/go/src/DocHKJ/uploads/2019/10/15/2/2-1571139526278291000-/1.svg.jpg: no such file or directory
+2019/10/15 19:38:57.081 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 19:46:05.168 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 19:46:09.088 [D] [Utils.go:314]  store信息：%!(EXTRA string=&{Id:8 Md5:fcff40d298283e43077417f9d92234c8 Ext:doc ExtCate:word ExtNum:1 Page:1 PreviewPage:0 Size:63014 ModTime:1571139959 PreviewExt:svg Width:0 Height:0})
+2019/10/15 19:46:09.279 [E] [Utils.go:376]  exec: "convert": executable file not found in $PATH
+2019/10/15 19:46:09.279 [E] [Utils.go:382]  open /Users/luoxianjie/go/src/DocHKJ/uploads/2019/10/15/2/2-1571139959935433000-/1.svg.jpg: no such file or directory
+2019/10/15 19:47:20.000 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 19:57:57.534 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 19:59:02.449 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 20:00:16.293 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 20:00:18.016 [D] [Utils.go:314]  store信息：%!(EXTRA string=&{Id:9 Md5:a214c827b54470bb6f626a1689ea99fa Ext:doc ExtCate:word ExtNum:1 Page:5 PreviewPage:0 Size:62030 ModTime:1571140810 PreviewExt:svg Width:0 Height:0})
+2019/10/15 20:00:18.312 [E] [Utils.go:376]  exec: "convert": executable file not found in $PATH
+2019/10/15 20:00:18.312 [E] [Utils.go:382]  open /Users/luoxianjie/go/src/DocHKJ/uploads/2019/10/15/1/1-1571140810444322000-/1.svg.jpg: no such file or directory
+2019/10/15 20:00:31.965 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 21:57:50.133 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/15 21:57:58.262 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/16 07:53:20.769 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 100000000 offset 0
+2019/10/16 07:53:29.313 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 100000000 offset 0
+2019/10/16 07:53:35.712 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 100000000 offset 0
+2019/10/16 07:53:35.712 [D] [Models.go:363]  select d.Title,d.Description,ds.Page,ds.Size,ds.ExtCate,ds.Md5,i.Score,i.TimeCreate,i.Id,i.Dcnt,i.Vcnt,i.Price from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 10 offset 0%!(EXTRA string=学)
+2019/10/16 07:54:17.694 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 100000000 offset 0
+2019/10/16 07:54:17.694 [D] [Models.go:363]  select i.Score,i.TimeCreate,i.Id,i.Dcnt,i.Vcnt,i.Price,d.Title,d.Description,ds.Page,ds.Size,ds.ExtCate,ds.Md5 from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    order by i.Ccnt desc limit 10 offset 0%!(EXTRA string=学)
+2019/10/16 07:54:18.984 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?  and ds.ExtNum=6   limit 100000000 offset 0
+2019/10/16 07:54:19.658 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?  and ds.ExtNum=5   limit 100000000 offset 0
+2019/10/16 07:54:20.365 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?  and ds.ExtNum=3   limit 100000000 offset 0
+2019/10/16 07:54:21.066 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?  and ds.ExtNum=2   limit 100000000 offset 0
+2019/10/16 07:54:21.745 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?  and ds.ExtNum=2   limit 100000000 offset 0
+2019/10/16 07:54:22.266 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?  and ds.ExtNum=1   limit 100000000 offset 0
+2019/10/16 07:54:22.266 [D] [Models.go:363]  select ds.Page,ds.Size,ds.ExtCate,ds.Md5,i.Score,i.TimeCreate,i.Id,i.Dcnt,i.Vcnt,i.Price,d.Title,d.Description from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?  and ds.ExtNum=1   limit 10 offset 0%!(EXTRA string=学)
+2019/10/16 07:54:22.660 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?  and ds.ExtNum=4   limit 100000000 offset 0
+2019/10/16 07:54:23.108 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 100000000 offset 0
+2019/10/16 07:54:23.108 [D] [Models.go:363]  select d.Title,d.Description,ds.Page,ds.Size,ds.ExtCate,ds.Md5,i.Score,i.TimeCreate,i.Id,i.Dcnt,i.Vcnt,i.Price from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 10 offset 0%!(EXTRA string=学)
+2019/10/16 07:54:23.660 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 100000000 offset 0
+2019/10/16 07:54:23.660 [D] [Models.go:363]  select ds.Page,ds.Size,ds.ExtCate,ds.Md5,i.Score,i.TimeCreate,i.Id,i.Dcnt,i.Vcnt,i.Price,d.Title,d.Description from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 10 offset 0%!(EXTRA string=学)
+2019/10/16 08:40:46.563 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/16 08:41:06.048 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 100000000 offset 0
+2019/10/16 08:41:06.048 [D] [Models.go:363]  select i.Score,i.TimeCreate,i.Id,i.Dcnt,i.Vcnt,i.Price,d.Title,d.Description,ds.Page,ds.Size,ds.ExtCate,ds.Md5 from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 10 offset 0%!(EXTRA string=学)
+2019/10/16 19:09:55.711 [D] [Utils.go:314]  store信息：%!(EXTRA string=&{Id:10 Md5:f347e5b96887481df7fb9ea05232cd61 Ext:docx ExtCate:word ExtNum:1 Page:1 PreviewPage:0 Size:121577 ModTime:1571224184 PreviewExt:svg Width:0 Height:0})
+2019/10/16 19:09:56.093 [E] [Utils.go:376]  exec: "convert": executable file not found in $PATH
+2019/10/16 19:09:56.093 [E] [Utils.go:382]  open /Users/luoxianjie/go/src/DocHKJ/uploads/2019/10/16/1/1-1571224184942856000-/1.svg.jpg: no such file or directory
+2019/10/16 19:11:06.731 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/16 19:12:02.056 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 100000000 offset 0
+2019/10/16 19:12:02.056 [D] [Models.go:363]  select i.Score,i.TimeCreate,i.Id,i.Dcnt,i.Vcnt,i.Price,d.Title,d.Description,ds.Page,ds.Size,ds.ExtCate,ds.Md5 from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 10 offset 0%!(EXTRA string=罗先)
+2019/10/16 19:12:30.925 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/22 20:06:49.901 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/23 20:52:29.181 [D] [Models.go:353]  统计SQL:select count(d.Id) cnt from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 100000000 offset 0
+2019/10/23 20:52:29.181 [D] [Models.go:363]  select i.Score,i.TimeCreate,i.Id,i.Dcnt,i.Vcnt,i.Price,d.Title,d.Description,ds.Page,ds.Size,ds.ExtCate,ds.Md5 from hc_document_info i left join hc_document d on i.Id=d.Id left join hc_document_store ds on i.DsId=ds.Id  where  i.Status>=0 and d.Title like ?    limit 10 offset 0%!(EXTRA string=学)
+2019/10/23 20:52:31.483 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/23 20:52:34.565 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/23 20:57:19.225 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/23 20:58:04.777 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/23 20:58:18.737 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/23 21:09:27.644 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
+2019/10/23 21:09:33.102 [D] [Utils.go:314]  store信息：%!(EXTRA string=&{Id:11 Md5:3e7289fb06c9cb7ae8f272ff46b8c863 Ext:doc ExtCate:word ExtNum:1 Page:16 PreviewPage:0 Size:69120 ModTime:1571836162 PreviewExt:svg Width:0 Height:0})
+2019/10/23 21:09:33.404 [E] [Utils.go:376]  exec: "convert": executable file not found in $PATH
+2019/10/23 21:09:33.404 [E] [Utils.go:382]  open /Users/luoxianjie/go/src/DocHKJ/uploads/2019/10/23/1/1-1571836162524669000-/1.svg.jpg: no such file or directory
+2019/10/23 21:09:34.818 [D] [DocumentModel.go:200]  查询字段：map[doc:[Id Title Filename Keywords Description] ds:[Md5 Ext ExtCate ExtNum Page PreviewPage Size ModTime PreviewExt Width Height] info:[Id DsId Uid ChanelId Pid Cid TimeCreate TimeUpdate Dcnt Vcnt Ccnt Score ScorePeople Price Status] u:[Username Id Uid]]
